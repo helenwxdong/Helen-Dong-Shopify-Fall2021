@@ -1,4 +1,3 @@
-import "./App.css";
 import { React, Component } from "react";
 import Search from "./components/Search";
 import Results from "./components/Results";
