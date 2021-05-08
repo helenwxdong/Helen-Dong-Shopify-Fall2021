@@ -1,4 +1,4 @@
-# Technologies used
+# Description
 My project was done in React, using some material UI elements for styling
 
 To see the project live, please clone and run:
